@@ -1,4 +1,3 @@
-
 Introduction
 ============
 
@@ -19,5 +18,7 @@ Online Mass Spectral Resources
 ==============================
 
 http://webbook.nist.gov/chemistry/
+
 http://lipidbank.jp/
+
 http://lipidlibrary.aocs.org/ms/arch_me/index.htm
